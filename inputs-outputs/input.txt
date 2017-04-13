@@ -1,0 +1,72 @@
+1
+27
+start 40
+end 0
+amity    19
+atlantis 30
+azkaban 25
+abrazam 17
+lala 34
+sok 29
+rts 21
+pol 19
+sesi 30
+sisi 22
+keki 40
+lopez 30
+pony 25
+pepi 23
+bobo 24
+bebe 22
+kese 29
+qwe 22
+asd 22
+zxc 22
+fgh 22
+rty 22
+ghj 22
+mnb 22
+iop 22
+39
+start end 95
+start amity 20
+atlantis amity 25
+azkaban atlantis 22
+azkaban start 2
+abrazam end 100
+abrazam atlantis 19
+lala atlantis 14
+sok abrazam 12
+rts azkaban 18
+pol start 26
+pol rts 14
+pol lala 19
+pol sok 16 
+rts sok 11 
+rts start 14
+rts azkaban 11
+lala abrazam 18
+lala end 90
+rts atlantis 18
+sesi azkaban 14
+sesi amity 13
+sesi rts 15
+sisi atlantis 31
+sisi sok 4
+sisi azkaban 5
+keki end 5
+keki pony 1
+keki abrazam 8
+pony amity 8
+rts pepi 5
+pony azkaban 9
+pony pepi 1
+pepi lopez 1
+lopez atlantis 1
+bobo lala 5
+bobo azkaban 4
+kese pony 0
+bebe amity 2
+bebe rts 0
+kese sok 2
+kese abrazam
